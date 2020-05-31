@@ -116,6 +116,6 @@ if(isset($_POST['submit']))
 								
 			});
 	</script>
-<!-- //here ends scrolling icon -->
+<!-- //here ends of scrolling icon -->
 </body>
 </html>
